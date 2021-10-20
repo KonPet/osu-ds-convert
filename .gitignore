@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+*.osu
+*.ods
+
+cmake-build-release-mingw
+.idea
