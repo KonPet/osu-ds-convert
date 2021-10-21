@@ -14,25 +14,17 @@ Compile the code and run the `.exe`. **NOTE**: The converter will look for the `
 * Creator
 * Version
 * Audio File Name
-
-
-* HP Drain
-* Circle Size
-* Overall Difficulty
-* Slider Multiplier
-* Slider Tick Rate
-
-
+- HP Drain
+- Circle Size
+- Overall Difficulty
+- Slider Multiplier
+- Slider Tick Rate
 * Peppy Stars
 * Eyup Stars (Neither of them are converted. They're hardcoded to be 0)
-
-
-* Timing points
-* Breaks
-
-
-* Hit Points
-* Sliders (They don't work correctly)
+- Timing points
+- Breaks
+- Hit Points
+- Sliders (They don't work correctly)
 
 ## To do:
 * Fix sliders
